@@ -1,0 +1,47 @@
+{
+  "parks": [
+    {
+      "id": 2,
+      "name": "Riverside Park (119th St)"
+    },
+    {
+      "id": 3,
+      "name": "Riverside Clay (96th St)"
+    },
+    {
+      "id": 9,
+      "name": "Sportime Randall's Island"
+    },
+    {
+      "id": 12,
+      "name": "Central Park"
+    },
+    {
+      "id": 13,
+      "name": "Sutton East (Queensboro Oval)"
+    }
+  ],
+  "days_ahead": 7,
+  "exclude_hours": [
+    14,
+    15
+  ],
+  "num_players": 2,
+  "poll_interval_seconds": 180,
+  "notify_webhook_url": "",
+  "verify_before_alert": true,
+  "booking": {
+    "permit_number": "CO-000000",
+    "name": "Your Name",
+    "email": "you@example.com",
+    "address": "123 Example St",
+    "apartment": "",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10000",
+    "country": "United States",
+    "phone": "5555555555",
+    "permit_number2": "",
+    "name2": ""
+  }
+}

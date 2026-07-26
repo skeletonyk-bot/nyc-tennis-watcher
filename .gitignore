@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.claude/
+
+# Personal booking info (permit number, name, email, address, phone).
+# Never commit — use config.example.json as the template.
+config.json
+legacy/config.json
